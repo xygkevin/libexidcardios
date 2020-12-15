@@ -1,13 +1,11 @@
 # IDCardRecognition
 
-![](https://github.com/xiaohange/IDCardRecognition/blob/master/timg.jpg?raw=true)
 
 ## 简介
 一个近乎完整的可识别中国身份证信息的Demo
 
 可自动快速读出身份证上的信息（姓名、性别、民族、住址、身份证号码）并截取到身份证图像
 
-![IDAuthViewController-开始验证身份证](https://github.com/xiaohange/IDCardRecognition/blob/master/helloDemo.png?raw=true)
 ## 实现原理
 经实践发现，只要身份证号码处于摄像头预览图层中时，即不用完全对准身份证也可以读取到身份证号码，但此时截取到的身份证图像并不完整。
 
@@ -42,7 +40,6 @@ Privacy - Photo Library Usage Description       是否允许访问相册
 
 ## Star
 
->iOS开发者交流群：446310206 喜欢就❤️❤️❤️star一下吧！你的支持是我更新的动力！ Love is every every every star! Your support is my renewed motivation!
 
 ## License
 
